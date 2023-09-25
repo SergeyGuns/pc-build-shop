@@ -1,4 +1,5 @@
-(()=>{
+;(()=>{
+    const MAIN_COLORS = [ 'rgba(255,231,1,1)', 'rgba(154,21,236,1)']
 if(document.documentElement.clientWidth < 1024) return;
 const canvas = document.querySelector('.cursor-pointer');
 if (canvas === null) return;
@@ -153,4 +154,4 @@ function animate(){
     requestAnimationFrame(animate);
 }
 animate();
-})()
+})();
