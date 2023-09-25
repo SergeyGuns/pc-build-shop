@@ -2,14 +2,11 @@
   "name": "pc-build-shop",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "rm -fr .parcel-cache/ && parcel src/index.pug",
-    "prebuild-dev": "shx rm -rf dist/*",
     "build-dev": "parcel build ./src/index.html --no-optimize --public-url ./",
-    "prebuild": "shx rm -rf dist/*",
-    "build": "parcel build ./src/index.html --public-url ./",
+    "build": "parcel build src/index.pug --public-url ./",
     "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
   },
   "author": "",
@@ -17,7 +14,8 @@
   "devDependencies": {
     "@parcel/transformer-pug": "^2.9.3",
     "parcel": "^2.9.3",
-    "parcel-reporter-static-files-copy": "^1.5.2"
+    "parcel-reporter-static-files-copy": "^1.5.2",
+    "push-dir": "^0.4.1"
   },
   "staticFiles": {
     "staticPath": "src/img"
