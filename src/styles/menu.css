@@ -1,5 +1,5 @@
 .menu {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -27,7 +27,7 @@
 }
 
 .menu.--fixed {
-    position: fixed;
+   
     background-color: rgba(6, 5, 7, 1);
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
