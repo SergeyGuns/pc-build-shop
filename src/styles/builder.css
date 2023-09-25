@@ -1,0 +1,20 @@
+
+.builder__configurator fieldset {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.builder__btn label {
+    cursor: pointer;
+    display: inline-block;
+    padding: .5rem 1rem;
+    border-radius: 1rem;
+    border:solid 1px white;
+    margin: 1rem;
+}
+.builder__btn input:checked+label {
+    transition: all .3s;
+    background-color: #fff;
+    color: black;
+    position: relative;
+}

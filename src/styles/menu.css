@@ -1,0 +1,35 @@
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    transition: all .3s;
+    background-color: rgba(6, 5, 7, 1);
+    color: white;
+    font-weight: 500;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem;
+}
+
+.menu__list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.menu__list-item {
+    padding: 1rem 3rem;
+}
+
+.menu.--fixed {
+    position: fixed;
+    background-color: rgba(6, 5, 7, 1);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 1rem;
+}

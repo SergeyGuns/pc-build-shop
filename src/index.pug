@@ -1,0 +1,124 @@
+- var games_min_title = 'Игровой минимум'
+- var content_creator_title = 'Машина для создания контента'
+html(lang="ru")
+    include includes/head.pug
+    +head("index title")
+    body
+        include includes/menu.pug
+        canvas.cursor-pointer
+        .content-wrapper
+            .content.--flex-row
+                .content__left
+                    h1 Собери свой
+                    h1.--gradient-text Компьютер мечты
+                    p.--mt1 Поможем вам собрать компьютер мечты, подобрать железо исходя из ваших целей и бюджета. 
+                    //- a(href='./builder.pug').build-btn.--mt2.--btn Build Yuor PC
+                    //- .build-btn.--mt2.--btn-negative Prebuild PC's
+                .content__right
+                    canvas(width='640' height='640').circle-animation
+        .content-wrapper.content-wrapper--gray
+            pre.--background-decor Больше чем железо.
+            .content.content--flat
+                h2 Больше чем железо.
+            canvas.corousel(width='1920px' height='1038px')
+            
+        .content-wrapper
+            pre.--background-decor Правильное оборудование, созданное специально для&nbsp;вас.
+            .content.content--flat
+                div
+                    h2 Дай волю своему зверю.
+                    h2.--color-secondary Правильное оборудование, созданное специально для вас.
+                    p.--mt1 При выборе комьютера в&nbsp;первыю очередь нужно отталкиваться от&nbsp;цели и&nbsp;сцераниев использования.
+                    p - Игры, кибер-спорт, инженерным&nbsp;ПО, программы для&nbsp;работы с&nbsp;3D графикой.
+                    p - Повседневные задачи, работа&nbsp;с офисным ПО, интернет серфинг, мультимедиа.
+                    p - ПК для&nbsp;создателей контента, с&nbsp;дополнительным файловым хранилещем, процессорной или&nbsp;графической с&nbsp;повышенной производительностью.
+                div.pc-card-list
+                    .pc-card-item.--highlight
+                        img(src="./img/gaming-min/assamble-3.jpg")
+                        .pc-card-item__content
+                            h3 #{games_min_title}
+                            p Максимальная производительность в играх за&nbsp;минимальный прайс, если вы&nbsp;хотите играть, но&nbsp;бюджет ограничен.
+                            a(href="#games_min_title").pc-card-item__get-started-btn Подробнее
+                    .pc-card-item.--highlight
+                        img(src="https://lipsum.app/120x120/")
+                        .pc-card-item__content
+                            h3 ПК для создания контента
+                            p Lorem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf 
+                            .pc-card-item__get-started-btn Get Started >>
+                    .pc-card-item 
+                        img(src="https://lipsum.app/120x120/")
+                        .pc-card-item__content
+                            h3 Игровые ПК
+                            p Lorem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf 
+                            .pc-card-item__get-started-btn Get Started >
+                    .pc-card-item 
+                        img(src="https://lipsum.app/120x120/")
+                        .pc-card-item__content
+                            h3 Компьютеры для работы с AI и Deep Learning
+                            p Lorem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf 
+                            .pc-card-item__get-started-btn Get Started >
+                    .pc-card-item 
+                        img(src="https://lipsum.app/120x120/")
+                        .pc-card-item__content
+                            h3 Создайте свой собственный компьютер
+                            p Индивидуальная сборка, уникальный дизайн. 
+                            .pc-card-item__get-started-btn Get Started >
+        .content-wrapper.content-wrapper--black
+            pre.--background-decor Why Choose Us?
+            .content
+                div
+                    h2 Why 
+                        span.--color-secondary Choose Us?
+                    p Lorem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf orem inputs text. asdf 
+        .content-wrapper
+            pre.--background-decor #{games_min_title}
+            .content
+                div
+                    h2#games_min_title #{games_min_title}
+                    p Возможность играть во все игры современные, с ограниченными настройками графики.
+                    p Максимальная производительность за минимальный бюджет 
+                    p Любые киберспортивные дисцеплины
+                    .part-description 
+                        .part-description__item.--cpu 
+                            img(src='./img/processor.png' width='60px')
+                            span Intel Xeon E5 2640v4 10 ядер 20
+                        .part-description__item.--gpu 
+                            img(src='./img/vga-card.png' width='60px')
+                            span AMD Radeon RX5700 8Gb
+                        .part-description__item.--ram 
+                            img(src='./img/ram-memory.png' width='60px')
+                            span DDR4 8Gb*2 2133
+                        .part-description__item.--ssd
+                            img(src='./img/ssd.png' width='60px')
+                            span SSD NVME 512Gb 3000+Mb/S
+                    p 
+                        a(href="./gaming-min.pug") Подробная стоитья,о сбоке    
+                    
+        .content-wrapper.content-wrapper--black
+            pre.--background-decor #{content_creator_title}
+            .content
+                div
+                    h2 #{content_creator_title}
+                    p Возможность играть в современные игры, без ограничений в графики.
+                    p Максимальная производительность за вминяемый бюджет.
+                    p Такая машина переварит любые задачи, в том числе и серверные.
+                    .part-description 
+                        .part-description__item.--cpu 
+                            img(src='./img/processor.png' width='60px')
+                            span Intel Xeon E5 2680v4*2 28 ядер 56 потоков 3300 MHz
+                        .part-description__item.--gpu 
+                            img(src='./img/vga-card.png' width='60px')
+                            span NVIDIA TESLA K80 24Gb || NVIDIA RTX 3080 10Gb
+                        .part-description__item.--ram 
+                            img(src='./img/ram-memory.png' width='60px')
+                            span DDR4 16Gb*8 2400 || DDR4 8Gb*8 2400
+                        .part-description__item.--ssd
+                            img(src='./img/ssd.png' width='60px')
+                            span SSD NVME 512-2000Gb 3000+Mb/S
+                        
+
+
+
+
+
+        include includes/footer.pug

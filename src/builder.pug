@@ -1,0 +1,60 @@
+html(lang="ru")
+    include includes/head.pug
+    +head("index title")
+    title Custom PC Builder
+    link(rel="stylesheet", href="styles/builder.css")
+    body
+        .content-wrapper
+            .content
+                h1 Custom PC Build
+        .content-wrapper
+            .content
+                .content__left
+                    .builder__image
+                    
+                .content__right
+                    .builder__configurator
+                        fieldset#motherboards
+                            legend Один или два процессора:
+                            .builder__btn
+                                input(type='checkbox' name='dual_cpu' id='dual_cpu')
+                                label(for='dual_cpu') Два процессора
+                        fieldset#ram
+                            legend Процессор:
+                            .builder__btn
+                                input(type='radio' id="2640V4" name='CPU' checked)
+                                label(for='2640V4') XEON E5 2640 V4 10 ядер
+                            .builder__btn
+                                input(type='radio' id="2680V4" name='CPU')
+                                label(for='2680V4') XEON E5 2680 V4 14 ядер
+                        fieldset#ram
+                            legend Объем ОЗУ:
+                            .builder__btn
+                                input(type='radio' id="ram16" name='ram' checked)
+                                label(for='ram16') 16Gb
+                            .builder__btn
+                                input(type='radio' id="ram32" name='ram')
+                                label(for='ram32') 32Gb
+                            .builder__btn
+                                input(type='radio' id="ram64" name='ram')
+                                label(for='ram64') 64Gb
+                            .builder__btn
+                                input(type='radio' id="ram128" name='ram')
+                                label(for='ram128') 128Gb
+                        fieldset#SSD
+                            legend SDD:
+                            .builder__btn
+                                input(type='radio' id="nvme256gb" name='nvme' checked)
+                                label(for='nvme256gb') SSD NVME 256Gb
+                            .builder__btn
+                                input(type='radio' id="nvme512gb" name='nvme' checked)
+                                label(for='nvme512gb') SSD NVME 512Gb
+                            .builder__btn
+                                input(type='radio' id="nvme1tb" name='nvme')
+                                label(for='nvme1tb') SSD NVME 1Tb
+                            .builder__btn
+                                input(type='radio' id="nvme2tb" name='nvme')
+                                label(for='nvme2tb') SSD NVME 2Tb
+                            
+        script(src="./js/builder.js" type='module') 
+        include includes/footer.pug

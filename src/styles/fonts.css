@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'CyberwayRiders';
+    src: url('../fonts/CyberwayRiders.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+#newfont{
+    font-family:'CyberwayRiders';
+}
+
