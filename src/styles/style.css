@@ -139,7 +139,7 @@ img, video {
     right: 0;
     bottom: 0; */
 }
-.content h1, .content h2, .content h3 {
+.content h1, .content h2, .content h3, .content h4 {
     font-family: var(--font-secondary);
     font-weight: 700;
     line-height: 3.5rem;
@@ -154,6 +154,11 @@ img, video {
     line-height: 2.5rem;
     font-size: 2rem;
 }
+.content h4 {
+    line-height: 2rem;
+    font-size: 1.5rem;
+}
+
 .--gradient-text {
     background-image: var(--gradient);
     color: transparent;

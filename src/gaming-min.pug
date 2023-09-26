@@ -1,8 +1,8 @@
-- var games_min_title = 'Игровой минимум'
+- var games_min_title = 'Игровой минимум "UM-1"'
 - var content_creator_title = 'Машина для создания контента'
 html(lang="ru")
     include includes/head.pug
-    +head("Игровой минимум")
+    +head("Игровой минимум  UM-1")
     body
         include includes/menu.pug
         canvas.cursor-pointer
@@ -24,6 +24,23 @@ html(lang="ru")
                     img.--mt1(src="./img/gaming-min/rx5700-1.jpg" width='100%')
                     img.--mt1(src="./img/gaming-min/rx5700-2.jpg" width='100%')
                     img.--mt1(src="./img/gaming-min/rx5700-3.jpg" width='100%')
+                    h3.--mt2 Тесты производительности
+                    h4.--mt1 "UserBenchmarks" 
+                    a(href="https://www.userbenchmark.com/UserRun/64281540" target="_blank", rel="noopener noreferrer")
+                        | https://www.userbenchmark.com/UserRun/64281540 
+                    ul 
+                        li UserBenchmarks: Game 64%, Desk 75%, Work 63%
+                        li CPU: Intel Xeon E5-2640 v4 - 69.8%
+                        li GPU: AMD RX 5700 - 91.2%
+                        li SSD: Nx-512 2280 512GB - 218.6% 
+                        li RAM: Hynix HMA41GR7MFR4N-TF 1x8GB - 32%
+                    h4.--mt1 "Игры" 
+                    p Для тестов я установил игры:
+                    ul
+                        li Cyberpunk 2077 : 60-100fps в зависимости от сцен
+                        li Red Dead Rebemption 2 : меньше 60 не опускается
+                        li Ведьмак 3 : меньше 60 не опускается
+                        li Counter-Strike Global Offencife : в прогоне FPS Bench 150+ в дыму 300+ осталные сцены
                     h3.--mt2 Корпус AeroCool AeroCool Cs-107-A-BK-v2
                     p Бюджетный, компактный, корпус с тремя встроенными вентиляторами, у которых приятная подсветка 
                     p У бюджетных корпусов есть ряд недостатков, которые я постарался устранить. 
