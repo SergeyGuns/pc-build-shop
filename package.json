@@ -8,7 +8,7 @@
     "build-dev": "parcel build ./src/index.html --no-optimize --public-url ./",
     "build": "parcel build src/index.pug --public-url ./",
     "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose",
-    "deploy": "npm run build && npm run push-gh-page"
+    "deploy": "npm run build && npm run push-gh-pages"
   },
   "author": "",
   "license": "ISC",
