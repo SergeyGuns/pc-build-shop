@@ -79,11 +79,11 @@ img, video {
 }
 
 .content-wrapper {
+    position: relative;
     background-color: var(--color-dark-lighten);
     overflow: hidden;
     padding: 1rem;
 }
-.content-wrapper,
 .content {
     color: white;
     display: flex;

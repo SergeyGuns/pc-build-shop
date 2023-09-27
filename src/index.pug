@@ -122,5 +122,9 @@ html(lang="ru")
 
 
 
-
+        .preload-images(hidden)
+            - var n = 0
+            while n < 36
+                img(src=`./img/pc-sequnce-min/0000-${++n}-min.jpg`)
+        script(src="./js/corousel.js") 
         include includes/footer.pug
