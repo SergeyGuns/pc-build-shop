@@ -1,0 +1,370 @@
+Intel Core i7-9700KF
+4146
+Intel Core i7-9700K
+4119
+Intel Core i7-9700
+3731
+Intel Core i7-9700F
+3726
+Intel Core i3-12100
+3348
+Intel Core i3-12100F
+3330
+AMD Ryzen 7 4700U
+3121
+AMD Ryzen 3 5300G
+3019
+AMD Ryzen 3 3300X 4-Core
+2775
+AMD Ryzen 3 4300G
+2675
+AMD Ryzen 3 PRO 4350G
+2666
+AMD Ryzen 3 4100 4-Core
+2654
+AMD Ryzen 3 4300GE
+2649
+Intel Core i7-11370H
+2576
+AMD Ryzen 3 3100 4-Core
+2556
+Intel Core i7-7740X
+2520
+Intel Core i7-7700K
+2514
+Intel Core i3-10105
+2493
+Intel Core i3-10105F
+2471
+Intel Core i5-11320H
+2433
+Intel Core i5-1155G7
+2433
+Intel Core i5-11300H
+2418
+Intel Core i3-10100F
+2407
+Intel Core i3-10100
+2401
+Intel Core i7-1195G7
+2385
+Intel Core i7-1185G7
+2348
+AMD Ryzen 5 3400G
+2329
+Intel Core i7-4790K
+2321
+Intel Core i5-1145G7
+2307
+Intel Core i7-11390H
+2304
+Intel Core i7-6700K
+2302
+Intel Xeon E5-1630 v4
+2299
+Intel Core i7-1165G7
+2294
+Intel Core i7-5775C
+2262
+Intel Core i5-1135G7
+2259
+Intel Core i7-7700
+2252
+AMD Ryzen 5 PRO 3400G
+2249
+AMD Ryzen 5 3350G
+2240
+AMD Ryzen 5 2400G
+2189
+Intel Core i3-1125G4
+2179
+AMD Ryzen 5 PRO 2400G
+2176
+AMD Ryzen 5 1500X
+2155
+Intel Core i5-10200H
+2130
+Intel Xeon E3-1281 v3
+2128
+Intel Core i5-1130G7
+2125
+Intel Core i7-6700
+2097
+Intel Xeon W-2123
+2063
+Intel Core i7-4790
+2060
+Intel Xeon E3-1271 v3
+2053
+Intel Core i5-10300H
+2052
+Intel Xeon E3-1230 v5
+2048
+Intel Core i5-8259U
+2046
+Intel Core i3-10100T
+2045
+Intel Core i7-4770K
+2035
+Intel Xeon E3-1246 v3
+2032
+Intel Core i5-10310U
+2031
+Intel Xeon E3-1270 v3
+2020
+Intel Xeon E3-1241 v3
+2018
+Intel Core i7-7700T
+2010
+Intel Core i7-4771
+2002
+Intel Core i7-10610U
+1999
+Intel Xeon E3-1245 v3
+1978
+AMD Ryzen 5 PRO 2400GE w/
+1978
+Intel Xeon E3-1240 v3
+1978
+AMD Ryzen 3 5300U
+1977
+Intel Core i7-8665U
+1962
+Intel Core i7-4790S
+1961
+Intel Core i5-8279U
+1956
+Intel Xeon E3-1231 v3
+1954
+Intel Core i7-7820HK
+1946
+Intel Xeon E5-1620 v3
+1941
+Intel Xeon E3-1280 V2
+1938
+Intel Core i7-6700T
+1927
+Intel Core i7-10510U
+1914
+AMD Ryzen 5 1400
+1914
+Intel Xeon E3-1230 v3
+1903
+AMD Ryzen 7 3750H with
+1902
+Intel Core i7-4770
+1901
+Intel Core i5-9300H
+1900
+Intel Core i7-4770S
+1895
+Intel Core i5-10210U
+1892
+Intel Core i5-9300HF
+1889
+Intel Core i7-8565U
+1877
+Intel Core i7-4820K
+1871
+Intel Core i5-8300H
+1859
+Intel Core i7-3770K
+1852
+Intel Xeon E3-1270 V2
+1844
+AMD Ryzen 5 3550H with
+1844
+Intel Xeon E5-1620 v2
+1841
+Intel Core i7-5700HQ
+1839
+Intel Core i7-7820HQ
+1835
+Intel Core i7-3770
+1831
+Intel Core i7-1065G7
+1825
+Intel Core i5-8350U
+1811
+Intel Core i7-3940XM
+1808
+Intel Xeon E3-1505M v5
+1804
+Intel Xeon E3-1240 V2
+1803
+Intel Xeon E3-1245 V2
+1801
+Intel Core i5-1035G4
+1799
+Intel Core i5-8365U
+1783
+Intel Core i7-3820
+1780
+Intel Core i7-6820HK
+1778
+Intel Xeon E5-1620
+1771
+Intel Core i7-7700HQ
+1768
+Intel Core i7-4910MQ
+1746
+Intel Core i7-4900MQ
+1746
+Intel Core i5-8265U
+1745
+AMD FX -9590
+1743
+Intel Core i7-3770S
+1736
+Intel Xeon E3-1230 V2
+1734
+Intel Core i7-2700K
+1733
+Intel Core i7-8650U
+1728
+Intel Core i7-6700HQ
+1724
+Intel Core i5-8250U
+1716
+Intel Core i7-3740QM
+1703
+Intel Core i7-2600K
+1694
+Intel Xeon E3-1265L v3
+1688
+Intel Core i7-6820HQ
+1686
+Intel Core i5-1035G7
+1685
+Intel Xeon E31270
+1679
+Intel Core i7-2600
+1673
+Intel Core i7-8550U
+1671
+Intel Xeon X5687
+1670
+Intel Core i7-3720QM
+1661
+Intel Xeon E31245
+1656
+Intel Xeon E31240
+1650
+Intel Core i7-3840QM
+1648
+AMD Ryzen 5 PRO 3500U w/
+1646
+Intel Core i5-1035G1
+1644
+AMD Ryzen 7 3700U with
+1639
+Intel Core i7-4800MQ
+1618
+Intel Core i7 975
+1610
+AMD Ryzen 5 3500U with
+1609
+Intel Core i7-4710MQ
+1598
+Intel Core i7-4720HQ
+1587
+AMD Ryzen 7 PRO 2700U w/
+1586
+Intel Xeon E31230
+1586
+Intel Core i7-3630QM
+1579
+Intel Core i7-4810MQ
+1571
+Intel Core i7-4710HQ
+1558
+AMD FX-8370
+1557
+AMD FX -8350
+1549
+AMD FX -9370
+1533
+Intel Core i7-2860QM
+1533
+Intel Core i7-3610QM
+1526
+Intel Core i7-4700HQ
+1523
+Intel Xeon W3565
+1514
+AMD Ryzen 5 2500U with
+1506
+AMD Ryzen 7 2700U with
+1506
+Intel Core i7 960
+1489
+Intel Core i7-4700MQ
+1478
+Intel Core i7-4712MQ
+1476
+AMD Ryzen 5 3450U with
+1451
+Intel Core i7 950
+1446
+Intel Xeon W3550
+1445
+Intel Core i7-3632QM
+1437
+Intel Xeon X3470
+1426
+Intel Core i7-4702MQ
+1424
+Intel Core i7 K 875
+1418
+Intel Core i7 870
+1389
+Intel Core i7-2600S
+1383
+Intel Core i7-3612QM
+1382
+AMD FX -8320
+1360
+Intel Core i7-4750HQ
+1348
+Intel Xeon X3460
+1343
+Intel Core i7 930
+1331
+Intel Core i7 860
+1314
+AMD FX -8150
+1304
+AMD FX-8370E
+1300
+AMD FX -8300
+1280
+Intel Core i7-2760QM
+1276
+Intel Core i7 920
+1269
+Intel Core i7-2820QM
+1263
+Intel Xeon W3520
+1258
+Intel Xeon X3450
+1257
+Intel Core i7-2720QM
+1244
+AMD FX-8320E
+1228
+Intel Xeon X3440
+1214
+Intel Core i7-2630QM
+1204
+Intel Xeon E31260L
+1201
+Intel Core i7-2670QM
+1201
+AMD FX -8120
+1077
+Intel Xeon E5620
+1071
+Intel Core i7 Q 740
+765
+Intel Core i7 Q 720
+705

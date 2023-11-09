@@ -1,0 +1,26 @@
+AMD Threadripper 3990X (128T)
+32030
+AMD Threadripper PRO 3995WX (128T)
+31418
+AMD Threadripper 3970X (64T)
+21029
+AMD Threadripper PRO 3975WX s (64T)
+20791
+AMD Threadripper 3960X (48T)
+16025
+AMD Threadripper 2990WX (64T)
+15740
+AMD Threadripper 2970WX (48T)
+12747
+Intel Core i9-7980XE (36T)
+9938
+Intel Core i9-10980XE (36T)
+9718
+Intel Xeon E5-2696 v4 (44T)
+9001
+Intel Core i9-9980XE (36T)
+8992
+Intel Xeon E5-2696 v3 (36T)
+6917
+Intel Xeon E5-2699 v3 (36T)
+6853

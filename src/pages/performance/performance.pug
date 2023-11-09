@@ -1,0 +1,10 @@
+html(lang="ru")
+    include ../../includes/head.pug
+    +head("performance")
+    body
+        include ../../includes/menu.pug
+        .content-wrapper
+            .content
+                div(style={width : "100%"}).js-results
+        script(src="./performance.js" type="module")            
+        include ../../includes/footer.pug

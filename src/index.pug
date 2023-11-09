@@ -1,4 +1,5 @@
 - var games_min_title = 'Игровой минимум'
+- var mini_itx_custom = 'Кастомная, игровая мини ITX сборка'
 - var content_creator_title = 'Машина для создания контента'
 html(lang="ru")
     include includes/head.pug
@@ -39,8 +40,14 @@ html(lang="ru")
                         img(src="./img/gaming-min/assamble-3.jpg")
                         .pc-card-item__content
                             h3 #{games_min_title}
-                            p Максимальная производительность в играх за&nbsp;минимальный прайс, если вы&nbsp;хотите играть, но&nbsp;бюджет ограничен.
+                            p Бюджетный игровой компьютер. Максимальная производительность в играх за&nbsp;минимальный прайс, если вы&nbsp;хотите играть, но&nbsp;бюджет ограничен.
                             a(href="#games_min_title").pc-card-item__get-started-btn Подробнее
+                    .pc-card-item.--highlight
+                        img(src="./img/gaming-min/assamble-3.jpg")
+                        .pc-card-item__content
+                            h3 #{mini_itx_custom}
+                            p Бюджетный игровой компьютер. С в форм факторе мини-ITX.
+                            a(href="#mini_itx_custom").pc-card-item__get-started-btn Подробнее
                     .pc-card-item.--highlight
                         img(src="https://lipsum.app/120x120/")
                         .pc-card-item__content
@@ -95,7 +102,30 @@ html(lang="ru")
                             span SSD NVME 512Gb 3000+Mb/S
                     p 
                         a(href="./gaming-min.pug") Подробная стоитья,о сбоке    
-                    
+        .content-wrapper
+            pre.--background-decor #{mini_itx_custom}
+            .content
+                div
+                    h2#mini_itx_custom #{mini_itx_custom}
+                    p Возможность играть во все игры современные.
+                    p Максимальная производительность за минимальный бюджет, в малом корпусе.
+                    p Уникальный дизайн.
+                    p Любые киберспортивные дисцеплины
+                    .part-description 
+                        .part-description__item.--cpu 
+                            img(src='./img/processor.png' width='60px')
+                            span Ryzen 5 5500 6 ядер 4.3Gh
+                        .part-description__item.--gpu 
+                            img(src='./img/vga-card.png' width='60px')
+                            span Nvidia GTX 1660 Super 6Gb
+                        .part-description__item.--ram 
+                            img(src='./img/ram-memory.png' width='60px')
+                            span DDR4 8Gb*2 3200
+                        .part-description__item.--ssd
+                            img(src='./img/ssd.png' width='60px')
+                            span SSD NVME 1Tb 3000+Mb/S
+                    p 
+                        a(href="./mini-itx-custom.pug") Подробная стоитья,о сбоке          
         .content-wrapper.content-wrapper--black
             pre.--background-decor #{content_creator_title}
             .content

@@ -1,0 +1,368 @@
+Intel Celeron G6900
+1063
+Intel Celeron G5905
+803
+Intel Pentium G3258
+748
+Intel Pentium G4400
+716
+Intel Pentium G3260
+689
+Intel Celeron G4900
+676
+Intel Pentium G3420
+671
+Intel Pentium G3250
+661
+Intel Pentium G3240
+645
+Intel Celeron G3930
+628
+Intel Pentium G3220
+624
+AMD Athlon Silver 3050U
+618
+Intel Celeron G3900
+613
+Intel Pentium G2030
+583
+Intel Celeron G1840
+582
+Intel Pentium G2020
+563
+Intel Celeron G1820
+560
+Intel Pentium G860
+558
+Intel Pentium G850
+548
+Intel Pentium G2010
+542
+Intel Pentium G645
+538
+Intel Core 2 Duo E8500
+525
+Intel Pentium G640
+524
+Intel Pentium G840
+521
+Intel Celeron G1620
+520
+Pentium E5800
+515
+Intel Pentium G630
+509
+Pentium E6700
+507
+Pentium E6600
+503
+Intel Celeron G1610
+498
+Intel Core 2 Duo E8400
+497
+AMD 3020e
+494
+Intel Celeron N4500
+483
+Pentium E5700
+482
+Intel Core 2 Duo E7600
+482
+Intel Pentium G620
+481
+Pentium E6500
+481
+Intel Celeron G550
+476
+Intel Core 2 Duo E7500
+474
+Intel Core 2 Duo E6850
+472
+Intel Celeron G540
+471
+Intel Pentium 2020M
+459
+Intel Celeron 6305
+453
+Pentium E6300
+452
+Intel Core 2 Duo E8200
+447
+Intel Celeron G530
+446
+Intel Core 2 Duo T9600
+445
+Intel Pentium B980
+441
+Intel Core 2 Duo E6750
+433
+Pentium E5500
+432
+Pentium E5400
+431
+Intel Core 2 Duo E7300
+431
+Intel Pentium B970
+429
+Pentium E5300
+414
+Intel Core 2 Duo T9300
+413
+Intel Core 2 Duo E7400
+407
+Intel Celeron N4020
+407
+Intel Celeron J4005
+406
+Intel Core 2 Duo E7200
+405
+Intel Pentium B960
+405
+Intel Core 2 Duo P8700
+404
+Intel Celeron E3400
+403
+Pentium E5200
+402
+Intel Celeron 4205U
+396
+Intel Core 2 Duo T7700
+393
+Intel Core 2 6600
+390
+Intel Core 2 Duo P8600
+388
+Intel Celeron 3865U
+384
+Intel Celeron E3300
+384
+Intel Core 2 Duo T8300
+382
+Intel Celeron N4000
+381
+Intel Core 2 Duo E4600
+380
+Intel Core 2 Duo E6550
+377
+AMD A6-7480
+377
+AMD A6-6400K
+376
+AMD A6-9500 RADEON R5; 8 COMPUTE CORES 2C+6G
+375
+Intel Core 2 Duo P8400
+370
+AMD A4-7300
+370
+Intel Celeron 1005M
+368
+Pentium T4500
+365
+Intel Pentium B940
+363
+AMD A4-6300
+360
+AMD A6-7400K
+357
+Intel Core 2 Duo T9550
+356
+Intel Core 2 Duo T6670
+355
+Intel Pentium P6200
+355
+Intel Core 2 Duo E4500
+350
+Intel Core 2 Duo T8100
+347
+Intel Celeron 1000M
+347
+Intel Celeron 3205U
+347
+AMD A6-5400K
+345
+Intel Pentium 3558U
+345
+Pentium T4400
+344
+Intel Pentium 2117U
+344
+Intel Core 2 Duo T6600
+341
+Intel Celeron 1037U
+340
+Intel Pentium Dual E2200
+339
+Intel Core 2 Duo T6570
+335
+Intel Pentium P6100
+334
+Intel Celeron B830
+330
+Pentium T4300
+330
+Intel Core 2 Duo T6500
+329
+AMD A9-9410 RADEON R5; 5 COMPUTE CORES 2C+3G
+328
+Intel Core 2 6400
+326
+Intel Core 2 Duo T7250
+325
+AMD A4-5300B
+325
+Intel Core 2 T7200
+324
+Intel Pentium Dual T3400
+324
+AMD A4-5300
+324
+Intel Core 2 Duo P7350
+322
+Intel Core 2 Duo T5800
+321
+Pentium T4200
+320
+Intel Celeron N3350
+319
+AMD A9-9420 RADEON R5; 5 COMPUTE CORES 2C+3G
+319
+Intel Core 2 Duo T6400
+315
+Intel Core 2 Duo T5870
+313
+AMD Athlon II X2 270
+311
+Intel Core 2 Duo T5750
+310
+Intel Pentium B950
+309
+Intel Celeron B820
+307
+AMD A9-9425 RADEON R5; 5 COMPUTE CORES 2C+3G
+303
+Intel Core 2 Duo T7500
+298
+AMD Phenom II X2 555
+295
+AMD A4-4000
+295
+Intel Celeron B815
+291
+AMD Athlon II X2 260
+290
+Intel Celeron 2957U
+283
+Intel Celeron 1007U
+283
+AMD Phenom II X2 550
+282
+AMD Athlon II X2 255
+275
+Intel Core 2 4300
+272
+AMD A6-9225 RADEON R4; 5 COMPUTE CORES 2C+3G
+270
+AMD Athlon II X2 250
+270
+AMD Athlon II X2 B24
+268
+Intel Celeron B800
+267
+AMD Athlon II X2 245
+259
+AMD Athlon II X2 220
+256
+AMD A6-4400M
+252
+AMD Athlon II X2 240
+251
+AMD A4-4300M
+243
+AMD A4-3400
+242
+AMD A6-9220 RADEON R4; 5 COMPUTE CORES 2C+3G
+241
+AMD Athlon II X2 215
+238
+AMD A4-3300
+231
+AMD Athlon 64 X2 6000+
+217
+AMD A9-9420e RADEON R5; 5 COMPUTE CORES 2C+3G
+210
+Intel Pentium D 3.40GHz
+209
+AMD Athlon 64 X2 5600+
+203
+Intel Celeron 847
+201
+AMD A4-3330MX
+200
+AMD Athlon 64 X2 5200+
+191
+Intel Celeron N2840
+184
+Intel Celeron J1800
+183
+AMD Athlon II P340
+183
+AMD A4-3305M
+183
+AMD Athlon 64 X2 5000+
+181
+Intel Pentium D 3.00GHz
+178
+AMD Athlon II P320
+175
+Intel Celeron N2830
+172
+AMD A4-9120e RADEON R3; 4 COMPUTE CORES 2C+2G
+172
+Intel Celeron N3060
+170
+Intel Celeron J3060
+168
+Intel Pentium D 2.80GHz
+167
+AMD Athlon 64 X2 4400+
+158
+AMD E1-2500
+158
+AMD Athlon 64 X2 4200+
+156
+Intel Celeron N3050
+149
+AMD E1-6010
+146
+AMD E2-9000e RADEON R2; 4 COMPUTE CORES 2C+2G
+142
+AMD Athlon 64 X2 4000+
+141
+AMD Athlon 64 X2 3800+
+140
+Intel Pentium 4 3.20GHz
+126
+AMD E2-1800
+126
+Intel Pentium 4 3.00GHz
+123
+AMD E-450
+121
+AMD E-350
+117
+AMD E1-2100
+112
+AMD E1-1500
+107
+AMD E1-1200
+101
+AMD C-60
+75
+AMD C-70
+74
+AMD C-50
+72
+Intel Atom N450
+61
+Intel Atom N455
+58

@@ -1,0 +1,228 @@
+AMD Ryzen 5 7600X
+6146
+Intel Core i5-12600K
+5556
+Intel Core i5-12600KF
+5517
+Intel Core i5-12600
+5108
+Intel Core i5-12500
+4903
+Intel Core i5-12490F
+4884
+Intel Core i5-12400F
+4831
+Intel Core i5-12400
+4824
+AMD Ryzen 5 5600X
+4789
+AMD Ryzen 5 5600
+4737
+Intel Core i5-11600K
+4669
+Intel Core i5-11600KF
+4660
+AMD Ryzen 5 5600G
+4593
+AMD Ryzen 5 PRO 5650G
+4568
+AMD Ryzen 5 5500
+4538
+Intel Core i5-11600
+4332
+Intel Core i5-11500
+4247
+AMD Ryzen 5 PRO 5650GE
+4235
+Intel Core i5-11400F
+4209
+Intel Core i5-11400
+4209
+Intel Core i5-12450H
+4189
+AMD Ryzen 5 PRO 4650G
+4167
+AMD Ryzen 5 3600XT
+4162
+AMD Ryzen 5 4600G
+4157
+AMD Ryzen 5 4500
+4139
+AMD Ryzen 5 6600H
+4096
+AMD Ryzen 5 3600X
+4065
+Intel Core i5-10600K
+4011
+Intel Core i5-10600KF
+4003
+AMD Ryzen 5 PRO 4650GE
+3987
+AMD Ryzen 5 3600
+3971
+AMD Ryzen 5 PRO 3600
+3960
+Intel Core i5-11260H
+3955
+Intel Core i7-11600H
+3939
+Intel Core i5-10600
+3924
+Intel Core i5-10505
+3814
+AMD Ryzen 5 5600H
+3776
+Intel Core i7-8086K
+3749
+Intel Core i5-10500
+3725
+Intel Core i5-11400H
+3687
+Intel Core i7-8700K
+3678
+Intel Core i7-8700
+3657
+AMD Ryzen 5 2600X
+3572
+Intel Core i5-10400
+3526
+Intel Core i5-10400F
+3525
+Intel Core i7-6850K
+3465
+Intel Core i7-1255U
+3450
+AMD Ryzen 5 PRO 2600
+3410
+AMD Ryzen 5 1600X
+3371
+Intel Xeon E5-1650 v4
+3363
+AMD Ryzen 5 2600
+3331
+Intel Core i7-7800X
+3323
+AMD Ryzen 5 4600H
+3286
+AMD Ryzen 5 5600U
+3232
+Intel Core i7-6800K
+3228
+Intel Core i5-1235U
+3189
+AMD Ryzen 5 5625U
+3164
+Intel Core i5-10500H
+3164
+AMD Ryzen 5 1600
+3122
+Intel Core i7-5930K
+3070
+Intel Core i7-10750H
+3040
+Intel Core i5-10500T
+3026
+Intel Core i7-10710U
+3018
+Intel Xeon E-2276M
+3008
+AMD Ryzen 5 4600HS
+3004
+AMD Ryzen 5 4600U
+2995
+Intel Core i7-10850H
+2945
+Intel Xeon E5-1660
+2896
+Intel Xeon E5-1650 v3
+2889
+AMD Ryzen 5 PRO 5650U
+2880
+Intel Xeon E-2176M
+2850
+Intel Core i7-4930K
+2834
+Intel Core i7-5820K
+2832
+Intel Core i5-10400T
+2810
+Intel Core i9-8950HK
+2802
+Intel Core i7-4960X
+2748
+Intel Core i7-8850H
+2746
+Intel Core i7-9750H
+2744
+AMD Ryzen 5 5500U
+2743
+Intel Xeon E5-1650 v2
+2741
+Intel Core i7-9850H
+2710
+Intel Core i7-8700T
+2681
+Intel Core i7-9750HF
+2680
+Intel Xeon E5-2643 v2
+2677
+Intel Core i7-3960X
+2660
+Intel Core i7-3930K
+2611
+Intel Core i7-8750H
+2602
+Intel Core i7-3970X
+2593
+AMD Ryzen 5 PRO 4650U
+2559
+Intel Xeon X5690
+2539
+Intel Xeon W3690
+2521
+Intel Xeon E5-1650
+2520
+Intel Core i7 X 990
+2446
+Intel Xeon W3680
+2403
+Intel Xeon X5680
+2389
+Intel Core i7 980
+2372
+Intel Core i7 X 980
+2371
+Intel Xeon X5675
+2348
+Intel Xeon E5-2667
+2307
+Intel Xeon X5670
+2166
+Intel Xeon E5-2630 v2
+2158
+Intel Xeon E5-2620 v3
+2111
+Intel Xeon E5-2640
+2014
+Intel Xeon X5660
+1971
+Intel Xeon X5650
+1963
+Intel Xeon E5-2440
+1959
+Intel Xeon E5-2630
+1862
+Intel Xeon E5-2420 v2
+1849
+Intel Xeon E5-2620 v2
+1763
+Intel Xeon E5-2620
+1647
+Intel Xeon E5645
+1615
+Intel Xeon E5649
+1588
+Intel Xeon E5-2420
+1579
+Intel Xeon L5640
+1570

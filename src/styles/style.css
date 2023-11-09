@@ -58,7 +58,9 @@ img, video {
 .--opacity-zero {
     opacity: 0;
 }
-
+.build-btn::placeholder {
+    opacity: .3;
+}
 
 .build-btn,
 .menu__login-btn {
@@ -71,6 +73,7 @@ img, video {
     margin-right: 1rem;
     cursor: pointer;
     user-select: none;
+    margin-bottom: .5rem;
 }
 .--btn-negative {
     background-color: transparent;

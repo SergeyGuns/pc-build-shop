@@ -1,0 +1,56 @@
+Intel Core i5-9600KF
+2906
+Intel Core i5-9600K
+2862
+AMD Ryzen 5 3500X
+2794
+AMD Ryzen 5 3500
+2743
+Intel Core i5-8600K
+2696
+Intel Core i5-9500
+2691
+Intel Core i5-9500F
+2682
+Intel Core i5-8600
+2681
+Intel Core i5-9400
+2571
+Intel Core i5-8500
+2548
+Intel Core i5-9400F
+2531
+Intel Core i5-8400
+2462
+Intel Core i5-9500T
+2229
+Intel Core i5-8500T
+2112
+AMD Ryzen 5 4500U
+2068
+Intel Core i5-9400T
+2021
+Intel Core i5-8400T
+1932
+AMD FX -6350
+1106
+AMD FX -6300
+1003
+AMD FX -6200
+993
+AMD Phenom II X6 1100T
+918
+AMD Phenom II X6 1090T
+890
+AMD FX -6100
+843
+AMD Phenom II X6 1075T
+832
+AMD Phenom II X6 1065T
+818
+AMD Phenom II X6 1055T
+780
+AMD Phenom II X6 1045T
+753
+AMD Phenom II X6 1035T
+717

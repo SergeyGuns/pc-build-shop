@@ -1,0 +1,60 @@
+Intel Core i7-13700K
+12430
+Intel Core i7-13700KF
+12403
+Intel Core i9-12900KS
+11879
+AMD Ryzen 9 7900X
+11824
+Intel Core i9-12900K
+11360
+Intel Core i9-12900KF
+11289
+Intel Core i9-12900F
+10586
+Intel Core i9-12900
+10186
+Intel Core i9-12900HX
+9855
+AMD Ryzen 9 5900X
+9492
+Intel Core i9-12950HX
+9085
+Intel Core i7-12800HX
+8813
+AMD Ryzen 9 3900XT
+8114
+AMD Ryzen 9 3900X
+8100
+AMD Ryzen 9 3900
+7579
+AMD Ryzen 9 5900
+7282
+Intel Core i9-10920X
+7148
+AMD Threadripper 2920X
+7095
+AMD Threadripper 1920X
+6655
+Intel Core i9-7920X
+6177
+Intel Xeon E5-2690 v3
+5087
+Intel Xeon E5-2680 v3
+4757
+Intel Xeon E5-2678 v3
+4745
+Intel Xeon E5-2696 v2
+4615
+Intel Xeon E5-2697 v2
+4546
+Intel Xeon E5-2650 v4
+4533
+Intel Xeon E5-2673 v3
+4427
+Intel Xeon E5-2676 v3
+4402
+Intel Xeon E5-2670 v3
+4249
+Intel Xeon E5-2651 v2
+2994

@@ -1,0 +1,56 @@
+Intel Core i5-13600K
+9741
+Intel Core i5-13600KF
+9512
+Intel Core i7-12700K
+9303
+Intel Core i7-12700KF
+9285
+Intel Core i7-12700
+8796
+Intel Core i7-12700F
+8775
+Intel Core i9-12900HK
+7326
+Intel Core i9-10900K
+7322
+Intel Core i9-10900KF
+7304
+Intel Core i9-12900H
+7077
+Intel Core i9-10850K
+7066
+Intel Core i7-12700H
+6723
+Intel Core i9-10900F
+6703
+Intel Core i9-10900
+6690
+Intel Core i9-10900X
+6045
+Intel Core i7-12800H
+5973
+Intel Core i7-6950X
+5952
+Intel Core i9-7900X
+5736
+Intel Core i9-9900X
+5592
+Intel Core i9-9820X
+5397
+Intel Core i7-1280P
+5231
+Intel Xeon E5-2666 v3
+4361
+Intel Xeon E5-2690 v2
+4184
+Intel Xeon E5-2660 v3
+3968
+Intel Xeon E5-2680 v2
+3912
+Intel Xeon E5-2670 v2
+3663
+Intel Xeon E5-2470 v2
+3482
+Intel Xeon E5-2660 v2
+3173

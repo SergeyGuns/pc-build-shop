@@ -1,0 +1,24 @@
+Intel Core i9-13900KF
+16680
+Intel Core i9-13900K
+16616
+AMD Ryzen 9 7950X
+15728
+AMD Ryzen 9 5950X
+11840
+AMD Threadripper PRO 3955WX s
+10761
+AMD Ryzen 9 3950X
+10757
+AMD Threadripper 2950X
+9210
+Intel Core i9-7960X
+8899
+AMD Threadripper 1950X
+8662
+Intel Xeon E5-2683 v4
+6315
+Intel Xeon E5-2698 v3
+6104
+Intel Xeon D-1581
+5611

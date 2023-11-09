@@ -1,0 +1,400 @@
+Intel Core i9-13900K
+902
+Intel Core i7-13700K
+864
+Intel Core i9-12900KS
+853
+Intel Core i9-12900KF
+816
+Intel Core i9-12900K
+816
+Intel Core i7-12700KF
+788
+Intel Core i7-12700K
+788
+AMD Ryzen 9 7950X
+767
+Intel Core i5-12600K
+765
+Intel Core i5-12600KF
+763
+Intel Core i7-12700
+751
+Intel Core i7-12700F
+749
+Intel Core i9-12900H
+734
+Intel Core i7-12700H
+702
+Intel Core i5-12500
+695
+Intel Core i5-12500H
+674
+Intel Core i9-11900K
+671
+Intel Core i5-12490F
+669
+Intel Core i5-12400
+660
+Intel Core i3-12100
+659
+Intel Core i5-12400F
+653
+AMD Ryzen 9 5950X
+647
+AMD Ryzen 9 5900X
+647
+Intel Core i3-12100F
+647
+AMD Ryzen 7 5800X
+640
+Intel Core i7-11700K
+636
+Intel Core i7-11700KF
+632
+AMD Ryzen 7 5700X
+629
+Intel Core i5-11600K
+625
+AMD Ryzen 5 5600X
+624
+Intel Core i7-11700
+613
+Intel Core i7-11700F
+605
+AMD Ryzen 7 5700G
+605
+AMD Ryzen 5 5600
+601
+AMD Ryzen 7 5800X3D
+598
+AMD Ryzen 9 5900HX
+595
+AMD Ryzen 5 5600G
+586
+AMD Ryzen 7 6800H
+584
+Intel Core i7-11800H
+578
+Intel Core i9-10900K
+578
+Intel Core i9-10850K
+567
+Intel Core i7-10700KF
+562
+Intel Core i5-11400
+561
+AMD Ryzen 5 5500
+559
+Intel Core i9-9900KF
+557
+Intel Core i7-9700KF
+556
+Intel Core i5-11400F
+556
+Intel Core i5-11400H
+555
+Intel Core i7-10700K
+553
+AMD Ryzen 7 5800H
+553
+Intel Core i7-9700K
+548
+Intel Core i9-9900K
+545
+AMD Ryzen 5 5600H
+544
+Intel Core i5-10600KF
+541
+Intel Core i5-9600KF
+537
+Intel Core i5-10600K
+534
+Intel Core i7-10700
+534
+Intel Core i5-11300H
+530
+Intel Core i7-10700F
+528
+Intel Core i7-1165G7
+526
+Intel Core i7-9700
+523
+AMD Ryzen 9 3950X
+522
+AMD Ryzen 9 3900X
+521
+Intel Core i5-9600K
+521
+AMD Ryzen 7 3800X
+516
+Intel Core i7-8700K
+510
+AMD Ryzen 7 3700X
+509
+AMD Ryzen 5 PRO 4650G
+506
+Intel Core i5-8600K
+505
+Intel Core i5-1135G7
+503
+AMD Ryzen 5 3600X
+502
+Intel Core i7-7700K
+500
+AMD Ryzen 7 4800H
+498
+AMD Ryzen 7 5700U
+488
+AMD Ryzen 5 3600
+488
+Intel Core i7-8700
+487
+AMD Ryzen 5 3500X
+485
+AMD Ryzen 5 3500
+482
+Intel Core i3-1115G4
+479
+Intel Core i7-10750H
+472
+AMD Ryzen 5 5500U
+472
+Intel Core i3-9100F
+470
+Intel Core i3-10105F
+468
+Intel Core i7-6700K
+464
+Intel Core i5-8500
+463
+Intel Core i5-9400
+461
+Intel Core i5-10400
+461
+AMD Ryzen 5 4600H
+461
+Intel Core i3-10100
+460
+Intel Core i5-9400F
+459
+Intel Core i5-6600K
+459
+Intel Core i5-10400F
+456
+AMD Ryzen 3 3100 4-Core
+456
+Intel Core i3-10100F
+456
+Intel Core i7-4790K
+456
+AMD Ryzen 7 2700X
+456
+Intel Core i5-10300H
+454
+Intel Core i5-8400
+450
+Intel Core i7-9750H
+448
+AMD Ryzen 5 2600X
+446
+Intel Core i7-7700
+435
+Intel Core i5-4690K
+431
+Intel Core i7-8750H
+431
+AMD Ryzen 3 3200G
+430
+AMD Ryzen 5 3400G
+430
+Intel Core i5-9300H
+429
+AMD Ryzen 5 2600
+424
+Intel Core i3-8100
+421
+Intel Core i5-7500
+419
+Intel Core i7-10510U
+419
+Intel Core i5-8300H
+417
+AMD Ryzen 5 1600X
+415
+Intel Core i7-8565U
+414
+AMD Ryzen 3 2200G
+413
+Intel Core i7-4770K
+410
+Intel Core i5-4690
+408
+Intel Core i5-10210U
+405
+AMD Ryzen 5 2400G
+403
+Intel Core i7-4790
+402
+Intel Core i5-1035G1
+400
+Intel Core i7-6700
+397
+AMD Ryzen 7 2700
+393
+Intel Core i7-4770
+391
+AMD Ryzen 7 1700
+390
+AMD Ryzen 5 1600
+389
+Intel Core i5-8265U
+389
+Intel Core i5-4590
+386
+Intel Core i3-1005G1
+385
+Intel Core i5-6500
+383
+AMD Ryzen 5 3550H with
+383
+Intel Core i5-7400
+383
+Intel Core i5-3570K
+383
+Intel Core i7-3770K
+382
+Intel Xeon E3-1231 v3
+379
+Intel Core i7-8550U
+378
+Intel Core i5-4570
+377
+Intel Core i3-7100
+375
+AMD Ryzen 3 1200
+374
+Intel Core i5-3570
+371
+Intel Xeon E5-2666 v3
+371
+Intel Core i3-10110U
+370
+Intel Core i5-2500K
+368
+Intel Core i7-3770
+367
+AMD Ryzen 7 3750H with
+367
+Intel Core i7-2600K
+364
+Intel Core i7-7700HQ
+362
+Intel Core i5-8250U
+361
+Intel Core i5-6400
+359
+Intel Core i5-7300HQ
+359
+Intel Core i3-6100
+357
+Intel Core i5-4460
+353
+Intel Core i5-3470
+350
+Intel Xeon E5-2640 v3
+349
+AMD Ryzen 5 3500U with
+348
+Intel Core i5-4440
+343
+Intel Xeon E3-1230 V2
+342
+Intel Core i3-4170
+342
+Intel Core i5-2500
+340
+AMD Athlon 3000G
+339
+Intel Pentium G4560
+339
+Intel Core i7-2600
+336
+Intel Core i3-4160
+332
+Intel Xeon E5-2689
+327
+Intel Core i7-6700HQ
+325
+Intel Core i7-7500U
+325
+Intel Xeon E5-2670 v3
+320
+Intel Core i5-2400
+317
+Intel Xeon E5-2620 v3
+316
+Intel Xeon E5-2650 v2
+312
+Intel Core i3-4130
+312
+Intel Core i5-3330
+308
+AMD Ryzen 3 3250U
+293
+Intel Core i5-7200U
+288
+Intel Core i3-3240
+286
+Intel Core i3-3220
+279
+Intel Core i5-6300U
+273
+Intel Core i3-2120
+268
+Intel Core i5-3230M
+254
+Intel Core i3-2100
+253
+Intel Core 2 Duo E8400
+252
+Intel Core i5-6200U
+252
+Intel Core i5-5200U
+249
+Intel Core i5-2520M
+249
+Intel Core 2 Quad Q9550
+248
+Intel Core i5 650
+246
+Intel Core 2 Duo E7500
+246
+Intel Core i5-3210M
+245
+AMD FX -8350
+241
+Intel Core i5-2450M
+237
+AMD FX -8320
+223
+AMD FX -6300
+220
+Intel Core i5-2410M
+220
+Intel Core i5-4210U
+218
+Intel Core 2 Quad Q6600
+217
+AMD FX -8300
+217
+Intel Core i3-7020U
+213
+Intel Core i5-4200U
+207
+Intel Core i3-5005U
+198
+Intel Core i3-6006U
+185
+Intel Core i3-4005U
+149

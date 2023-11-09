@@ -1,0 +1,398 @@
+Intel Core i3-8350K
+1787
+Intel Core i5-7600K
+1771
+Intel Core i3-9100
+1762
+Intel Core i3-9100F
+1760
+Intel Core i5-7600
+1693
+AMD Ryzen 3 3200G
+1654
+Intel Core i5-6600K
+1622
+Intel Core i5-4690K
+1620
+AMD Ryzen 3 1300X
+1601
+Intel Core i5-4690
+1589
+Intel Core i3-8100
+1587
+AMD Ryzen 3 2200G
+1585
+Intel Core i5-6600
+1579
+Intel Core i5-7500
+1571
+Intel Core i5-4670K
+1559
+Intel Core i5-4670
+1542
+Intel Core i5-4590
+1492
+Intel Core i5-4570
+1455
+Intel Core i5-3570K
+1449
+Intel Core i5-6500
+1447
+Intel Core i5-3570
+1434
+Intel Core i5-7400
+1430
+Intel Core i5-4590S
+1405
+Intel Xeon E3-1220 v3
+1403
+Intel Core i5-3550
+1401
+AMD Ryzen 3 1200
+1378
+Intel Core i5-4460
+1372
+Intel Core i5-6400
+1350
+Intel Core i5-3470
+1347
+Intel Core i5-7300HQ
+1340
+Intel Core i5-4440
+1327
+Intel Core i5-2500K
+1321
+Intel Xeon E3-1220 V2
+1317
+Intel Core i5-2500
+1316
+Intel Core i5-4430
+1280
+Intel Core i5-3450
+1275
+Intel Core i5-3470S
+1269
+Intel Core i5-3350P
+1234
+Intel Core i5-2400
+1230
+Intel Core i5-6300HQ
+1222
+Intel Core i3-1115G4
+1219
+Intel Core i5-6500T
+1215
+Intel Core i5-3330
+1192
+Intel Core i5-2320
+1191
+Intel Pentium Gold G6400
+1176
+Intel Core 2 Extreme X9650
+1174
+Intel Core i5-2310
+1149
+Intel Core i5-2300
+1116
+Intel Core i3-1005G1
+1101
+Intel Core i3-7100
+1099
+Intel Pentium Gold G5420
+1081
+Intel Xeon X5460
+1077
+Intel Core i3-10110U
+1064
+Intel Core i3-6100
+1045
+Intel Pentium Gold G5400
+1043
+AMD Athlon 3000G
+1042
+Intel Core i3-8145U
+1037
+Intel Xeon E5450
+1034
+Intel Pentium G4600
+1025
+Intel Core 2 Quad Q9650
+1023
+Intel Core i5-2400S
+1009
+Intel Core i3-4170
+1004
+Intel Celeron N5095
+1002
+Intel Xeon X5450
+993
+Intel Pentium G4560
+992
+Intel Core i7-7600U
+984
+Intel Core i5 760
+979
+Intel Core i3-4160
+977
+Intel Core i7-7500U
+970
+Intel Core i5-7300U
+970
+AMD Athlon 200GE
+953
+Intel Core i3-4150
+950
+Intel Core 2 Quad Q9500
+948
+Intel Core 2 Quad Q9550
+946
+Intel Xeon E5440
+940
+Intel Core i3-8130U
+939
+Intel Core i5 750
+932
+Intel Core i3-4130
+919
+Intel Core 2 Quad Q9450
+912
+Intel Core i7-5600U
+911
+Intel Celeron N5100
+911
+AMD Athlon Gold 3150U
+900
+Intel Core 2 Quad Q8400
+894
+Intel Core i7-6600U
+890
+Intel Core i5-4200H
+887
+Intel Core 2 Quad Q9400
+886
+Intel Core i5-7200U
+862
+Intel Core i5-4300M
+861
+Intel Core i7-5500U
+860
+Intel Core 2 Quad Q9300
+838
+Intel Core i7-3520M
+837
+Intel Core 2 Quad Q8300
+837
+Intel Core i3-3240
+837
+Intel Core i5-4210M
+836
+Intel Core i7-6500U
+834
+Intel Xeon X3430
+819
+Intel Core i3-3220
+814
+Intel Core i3-2130
+811
+Intel Core i5-5300U
+807
+Intel Core i5-6300U
+807
+Intel Core i5-4200M
+805
+Intel Core 2 Quad Q6600
+801
+Intel Core i7-4600U
+791
+Intel Core i3-2120
+787
+Intel Core i5-3340M
+787
+Intel Core i7-2640M
+785
+Intel Core i3-3210
+784
+Intel Core 2 Quad Q8200
+782
+AMD A8-6600K
+772
+AMD A10-9700
+769
+AMD Ryzen 3 2200U with
+766
+Intel Core i7-2620M
+760
+Intel Core i5-3320M
+759
+Intel Core i5-6200U
+753
+AMD A10-5800K
+751
+Intel Core i7-4510U
+749
+Intel Core i5-5200U
+748
+Intel Celeron J4125
+747
+AMD Ryzen 3 3250U
+747
+AMD Ryzen 3 3200U with
+744
+AMD FX -4300
+741
+AMD Athlon X4 760K
+740
+Intel Core i5-3230M
+737
+Intel Core i5-2540M
+736
+Intel Core i5 650
+736
+Intel Core i3-2100
+735
+AMD Athlon X4 860K
+726
+Intel Core i7-4500U
+725
+Intel Pentium Silver N5030
+724
+Intel Core i5-4310U
+721
+Intel Celeron N4100
+718
+Intel Core i5-2520M
+715
+Intel Core i7-3537U
+715
+Intel Core i5-3210M
+713
+Intel Core i3 550
+713
+AMD A10-7860K
+712
+Intel Celeron N4120
+711
+AMD A8-5600K
+711
+AMD A8-9600
+702
+Intel Pentium Silver N5000
+698
+Intel Core i5-4300U
+696
+AMD Athlon X4 840
+692
+AMD A8-7600
+690
+Intel Core i3 540
+682
+Intel Core i5-2450M
+680
+AMD A8-7650K
+669
+Intel Core i3-7100U
+669
+Intel Pentium 5405U
+661
+Intel Core i5-2430M
+661
+Intel Core i3 530
+653
+AMD Athlon X4 740
+652
+Intel Core i5-4210U
+647
+Intel Core i3-6100U
+644
+Intel Core i3-7020U
+639
+Intel Core i7 M 620
+639
+Intel Pentium N4200
+638
+Intel Core i5-2410M
+634
+AMD FX -4100
+634
+AMD Phenom II X4 965
+631
+Intel Core i5-4200U
+616
+Intel Core i3-3120M
+615
+Intel Core i5-3337U
+612
+Intel Core i5 M 560
+600
+Intel Core i3-5005U
+598
+Intel Core i5 M 480
+596
+AMD Phenom II X4 955
+595
+Intel Core i3-3110M
+591
+Intel Core i5-3317U
+587
+Intel Core i5 M 520
+583
+AMD Athlon II X4 645
+575
+Intel Core i3-2370M
+567
+Intel Core i5 M 460
+558
+AMD Phenom II X4 945
+558
+Intel Core i3-6006U
+555
+AMD Athlon II X4 640
+552
+AMD A12-9720P RADEON R7; 12 COMPUTE CORES 4C+8G
+551
+Intel Core i5 M 450
+542
+Intel Core i3-2350M
+541
+Intel Core i3 M 370
+523
+Intel Core i3-2330M
+518
+Intel Core i3-2328M
+516
+Intel Core i5 M 430
+514
+Intel Core i3-4030U
+511
+Intel Core i3 M 380
+511
+AMD A10-9600P
+502
+AMD A8-7410
+498
+Intel Core i3-2310M
+492
+Intel Core i3 M 350
+482
+AMD A8-6410
+481
+AMD A6-7310
+472
+Intel Core i3 M 330
+466
+Intel Core i3-4010U
+458
+Intel Core i3-4005U
+458
+AMD A6-6310
+450
+Intel Core i3-3217U
+441
+Intel Pentium N3540
+390
+Intel Pentium N3710
+372
+Intel Pentium N3700
+342
+Intel Atom x5-Z8350
+243
