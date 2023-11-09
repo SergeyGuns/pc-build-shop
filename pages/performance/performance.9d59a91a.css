@@ -1,0 +1,32 @@
+.result {
+  width: 90vw;
+}
+
+.result__item {
+  color: #000;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto auto .2rem;
+  padding: .5rem;
+  font-family: monospace;
+  display: flex;
+}
+
+.--search-icon {
+  display: inline-block;
+  position: relative;
+}
+
+.--search-icon:before {
+  content: "";
+  background-image: url("../../search-icon.ea47aad5.png");
+  background-size: contain;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 12px;
+  right: 30px;
+}
+
+/*# sourceMappingURL=performance.9d59a91a.css.map */
